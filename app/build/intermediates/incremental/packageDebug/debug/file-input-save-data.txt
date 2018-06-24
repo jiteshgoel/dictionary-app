@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Mon May 07 16:19:24 IST 2018
-1.base=E\:\\DictionaryApp\\app\\build\\intermediates\\assets\\debug
+#Wed May 09 14:55:24 IST 2018
+1.base=E\:\\DictionaryApp-master\\DictionaryApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
-1.set=ASSET
-0.path=classes.dex
-0.set=DEX
-0.base=E\:\\DictionaryApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-1.path=dictionary.db
+1.set=DEX
+0.path=dictionary.db
+0.set=ASSET
+0.base=E\:\\DictionaryApp-master\\DictionaryApp-master\\app\\build\\intermediates\\assets\\debug
+1.path=classes.dex

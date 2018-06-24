@@ -782,8 +782,9 @@ int id uniform 0x7f07008a
 int id up 0x7f07008b
 int id useLogo 0x7f07008c
 int id withText 0x7f07008d
-int id wrap 0x7f07008e
-int id wrap_content 0x7f07008f
+int id wordtext 0x7f07008e
+int id wrap 0x7f07008f
+int id wrap_content 0x7f070090
 int integer abc_config_activityDefaultDur 0x7f080000
 int integer abc_config_activityShortDur 0x7f080001
 int integer cancel_button_image_alpha 0x7f080002
@@ -839,6 +840,7 @@ int layout select_dialog_multichoice_material 0x7f09002e
 int layout select_dialog_singlechoice_material 0x7f09002f
 int layout support_simple_spinner_dropdown_item 0x7f090030
 int layout tooltip 0x7f090031
+int layout wordmeaning 0x7f090032
 int mipmap bg3 0x7f0a0000
 int mipmap chevronleft 0x7f0a0001
 int mipmap chevronright 0x7f0a0002

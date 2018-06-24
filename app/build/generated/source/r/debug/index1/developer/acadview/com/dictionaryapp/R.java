@@ -3016,8 +3016,9 @@ public final class R {
     public static final int up=0x7f07008b;
     public static final int useLogo=0x7f07008c;
     public static final int withText=0x7f07008d;
-    public static final int wrap=0x7f07008e;
-    public static final int wrap_content=0x7f07008f;
+    public static final int wordtext=0x7f07008e;
+    public static final int wrap=0x7f07008f;
+    public static final int wrap_content=0x7f070090;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f080000;
@@ -3077,6 +3078,7 @@ public final class R {
     public static final int select_dialog_singlechoice_material=0x7f09002f;
     public static final int support_simple_spinner_dropdown_item=0x7f090030;
     public static final int tooltip=0x7f090031;
+    public static final int wordmeaning=0x7f090032;
   }
   public static final class mipmap {
     public static final int bg3=0x7f0a0000;
